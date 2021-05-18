@@ -1,0 +1,28 @@
+{
+  "name": "nodetut",
+  "version": "1.0.0",
+  "description": "Learning NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuomyEQua/NodeJs-Tuts.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Richard Uzor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuomyEQua/NodeJs-Tuts/issues"
+  },
+  "homepage": "https://github.com/LuomyEQua/NodeJs-Tuts#readme",
+  "dependencies": {
+    "slugify": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
